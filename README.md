@@ -17,7 +17,7 @@ cat default.conf >> ~/.tmux.conf
 
 ### Install through [Tmux Plugin Manager](https://github.com/tmux-plugins/tpm)
 
-> :warning: Note: Not verifid yet. Please stand by
+> :warning: Note: Not verified yet. Please stand by
 
 Add plugin to the list of TPM plugins in `.tmux.conf` and select desired theme
 
