@@ -30,7 +30,7 @@ Hit `prefix + I` to fetch the plugin and source it. Your Tmux should be updated 
 
 ## License
 
-[MIT]() License &copy; 2023-PRESENT [Nick Lebedev](https://github.com/nlebedevinc)
+[MIT](./LICENSE) License &copy; 2023-PRESENT [Nick Lebedev](https://github.com/nlebedevinc)
 
 [github-tmux]: https://github.com/tmux/tmux
 [dotfiles]: https://github.com/nlebedevinc/dotfiles
